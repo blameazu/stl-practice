@@ -1,0 +1,25 @@
+correct.cpp
+solution            compile[OK]
+0-01                sol[OK]    0.012     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.012     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.124     check[OK]        1  [Correct]               
+1-02                sol[OK]    0.668     check[OK]        1  [Correct]               
+1-03                sol[OK]    0.793     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.573     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.617     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.864     check[OK]        1  [Correct]               
+1-07                sol[OK]    1.000     check[OK]        1  [Correct]               
+1-08                sol[OK]    0.150     check[OK]        1  [Correct]               
+1-09                sol[OK]    0.300     check[OK]        1  [Correct]               
+1-10                sol[OK]    0.570     check[OK]        1  [Correct]               
+1-11                sol[OK]    0.108     check[OK]        1  [Correct]               
+1-12                sol[OK]    0.920     check[OK]        1  [Correct]               
+1-13                sol[OK]    0.304     check[OK]        1  [Correct]               
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+full                [13/13 tests]  [Correct]             [100/100 pts]  [match with expected]             1-01
+
+Subtask summary
+100/100 pts
+
+Finished.
+
