@@ -1,31 +1,55 @@
-# TODO: 題目名稱
+# 
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+\includegraphics[width=5in]{photo.jpg}
+\caption{桐人}
+\end{figure}
 
-TODO: 題目敘述
+眾所周知，桐人是一個非常喜歡拔刀的男人。
+
+但他每天拔刀、收刀、拔刀、收刀，太麻煩了!
+
+所以今天給你 $Q$ 筆操作，每次有三種操作:
+
+1. 將一個數字 $a$ 收進來包包裡面，假如這個數字 $a$ 已存在則不理會此操作。
+2. 將包包中的那個數字 $b$ 拔出去，假如這個數字 $b$ 不存在則不理會此操作。
+3. 輸出這個數字 $c$ 是否在包包裡面。
 
 \clearpage
 
 ## 輸入
-TODO: 輸入說明
+第一行輸入一數 $Q$
+
+接下來 $Q$ 行會依據當筆操作種類有不同輸入方法:
+
+* 第一種操作輸入 $op$ $a$
+
+* 第二種操作輸入 $op$ $b$
+
+* 第三種操作輸入 $op$ $c$
+
 
 ## 輸出
-TODO: 輸出說明
+當詢問操作三時，輸出相對應的答案，每筆答案佔一行。
 
 ## 輸入限制
- - TODO: 輸入限制
+ - $1 \le Q \le 10^6$
+ - $1 \le a, b, c \le 10^9$
 
 ## 子任務
 \subtasks
 
 \clearpage
 
-## 範例輸入
+## 範例輸入 1
 \testfile{0-01.in}
 
-## 範例輸出
+## 範例輸出 1
 \testfile{0-01.out}
+
+## 範例輸入 2
+\testfile{0-02.in}
+
+## 範例輸出 2
+\testfile{0-02.out}
