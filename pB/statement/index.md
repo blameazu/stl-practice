@@ -1,31 +1,55 @@
-# TODO: 題目名稱
+# 零桐人
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+\includegraphics[width=5in]{photo.jpg}
+\caption{騙人的吧}
+\end{figure}
 
-TODO: 題目敘述
+桐人身為刀劍神域裡的主角，他背負著重要的任務。
+而桐人也具有著十分強烈的決心及滿腔熱血。
+但自從桐人從SAO學院畢業後，他不時會回想起當初在SAO中的快樂美好生活。
+
+所以桐人今天決定開一個SAO補習班!
+剛好，桐人今天剛好教到了一題STL基礎題目:
+
+今天給你 $Q$ 筆操作，每筆有三種操作:
+
+1. 將一個數字 $a$ 丟進去背包裏面。
+2. 將一個數字 $b$ 丟出去背包外，假如沒有任何一個數字 $b$ 在背包內，則不理會此操作。
+3. 輸出有多少個數字 $c$ 在背包內。
 
 \clearpage
 
 ## 輸入
-TODO: 輸入說明
+第一行輸入一數 $Q$
+
+接下來 $Q$ 行輸入操作，每筆操作佔一行，每種操作皆有不同的輸入格式:
+
+* 操作一輸入 $1$ $a$
+* 操作二輸入 $2$ $b$
+* 操作三輸入 $3$ $c$
 
 ## 輸出
-TODO: 輸出說明
+根據每筆操作三輸出相對應的答案，每筆輸出佔一行。
 
 ## 輸入限制
- - TODO: 輸入限制
+ - $1 \le Q \le 10^6$
+ - $1 \le a, b, c \le 10^9$
 
 ## 子任務
 \subtasks
 
 \clearpage
 
-## 範例輸入
+## 範例輸入 1
 \testfile{0-01.in}
 
-## 範例輸出
+## 範例輸出 1
 \testfile{0-01.out}
+
+## 範例輸入 2
+\testfile{0-02.in}
+
+## 範例輸出 2
+\testfile{0-02.out}
