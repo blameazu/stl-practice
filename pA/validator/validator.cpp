@@ -7,9 +7,10 @@ int main(int argc, char* argv[]) {
 	int q = inf.readInt(1, Max_Q, "q");
 	inf.readEoln();
 	while(q--) {
+		inf.readInt(1, 3, "op");
+		inf.readSpace();
 		inf.readInt(1, Max_A_value, "a");
-		if(q) inf.readSpace();
+		inf.readEoln();
 	}
-	inf.readEoln();
 	inf.readEof();
 }
