@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- |
 | contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:x:](pC/problem.json) | [:x:](pD/problem.json) |
 | problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) |
-| name |  [:white_check_mark:](pA/problem.json)<br>25STLP_InAndOut | [:white_check_mark:](pB/problem.json)<br>25STLP_ZeroKito | [:x:](pC/problem.json) | [:x:](pD/problem.json) |
-| title |  [:white_check_mark:](pA/problem.json)<br>一個喜歡拔刀的男人 | [:white_check_mark:](pB/problem.json)<br>零桐人 | [:x:](pC/problem.json) | [:x:](pD/problem.json) |
+| name |  [:white_check_mark:](pA/problem.json)<br>25STLP_InAndOut | [:white_check_mark:](pB/problem.json)<br>25STLP_SAOcp | [:x:](pC/problem.json) | [:x:](pD/problem.json) |
+| title |  [:white_check_mark:](pA/problem.json)<br>一個喜歡拔刀的男人 | [:white_check_mark:](pB/problem.json)<br>SAO補習班 | [:x:](pC/problem.json) | [:x:](pD/problem.json) |
 | memory_limit |  512 | 512 | 512 | 512 |
 | time_limit |  1.0 | 1.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False |
