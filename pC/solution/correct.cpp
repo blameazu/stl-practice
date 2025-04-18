@@ -1,10 +1,17 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <set>
 using namespace std;
-
 int main() {
-	// TODO
-	int n;
-	cin >> n;
-	cout << 0 << endl;
-	return 0;
+	int q; cin >> q;
+	set<int> se;
+	while(q--) {
+		int a, b; cin >> a >> b;
+		if(a == 1) se.insert(b);
+		else if(a == 2) se.erase(b);
+		else {
+			auto ub = se.upper_bound(b);
+			if(ub == se.end()) cout << "Not found!\n";
+			else cout << *ub << '\n';
+		}
+	}
 }
