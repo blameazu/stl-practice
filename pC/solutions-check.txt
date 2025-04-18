@@ -1,0 +1,24 @@
+correct.cpp
+solution            compile[OK]
+0-01                sol[OK]    0.011     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.011     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.577     check[OK]        1  [Correct]               
+1-02                sol[OK]    0.716     check[OK]        1  [Correct]               
+1-03                sol[OK]    0.368     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.644     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.164     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.310     check[OK]        1  [Correct]               
+1-07                sol[OK]    0.026     check[OK]        1  [Correct]               
+1-08                sol[FAIL]  1.011     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+1-09                sol[OK]    0.111     check[OK]        1  [Correct]               
+1-10                sol[OK]    0.699     check[OK]        1  [Correct]               
+1-11                sol[FAIL]  1.025     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+1-12                sol[OK]    0.114     check[OK]        1  [Correct]               
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+full                [12/12 tests]  [Time Limit Exceeded] [0/100 pts]    [expected: model_solution]        1-08
+
+Subtask summary
+0/100 pts
+
+Finished.
+
