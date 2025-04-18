@@ -14,7 +14,7 @@
 | memory_limit |  512 | 512 | 512 | 512 |
 | time_limit |  1.0 | 1.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False |
-| gen | [:x:](pA/gen)<br>[data](pA/gen/data) | [:x:](pB/gen)<br>[data](pB/gen/data) | [:x:](pC/gen)<br>[data](pC/gen/data) | [:x:](pD/gen)<br>[gen.cpp](pD/gen/gen.cpp)<br>[data](pD/gen/data) |
+| gen | [:x:](pA/gen)<br>[data](pA/gen/data) | [:x:](pB/gen)<br>[data](pB/gen/data) | [:white_check_mark:](pC/gen) | [:x:](pD/gen)<br>[gen.cpp](pD/gen/gen.cpp)<br>[data](pD/gen/data) |
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:white_check_mark:](pD/solution) |
 | validator | [:white_check_mark:](pA/validator) | [:white_check_mark:](pB/validator) | [:white_check_mark:](pC/validator) | [:x:](pD/validator)<br>[validator.cpp](pD/validator/validator.cpp) |
 | subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:white_check_mark:](pC/subtasks.json) | [:white_check_mark:](pD/subtasks.json) |
