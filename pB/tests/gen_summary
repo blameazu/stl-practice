@@ -1,15 +1,15 @@
 # test_name gen_line_number gen_line_content
 0-01	  4	manual example-1.in
-0-02	  5	gen sjkdlf
-1-01	  8	gen	sdkfl
-1-02	  9	gen	3wersdkl
-1-03	 10	gen ufsldj
-1-04	 11	gen ufsdld
-1-05	 12	gen uccoxjv
-1-06	 13	gen 09ufsd
-1-07	 14	gen sucvcl
-1-08	 15	gen utsgdg
-1-09	 16	gen sdjklvcjx
-1-10	 17	gen jsfdkljfdkl
-1-11	 18	gen efiosjcklfjcx
-1-12	 19	gen sdjfklsjdlf
+0-02	  5	gen 20 sjkdlf
+1-01	  8	gen	1000000 sdkfl
+1-02	  9	gen	1000000 3wersdkl
+1-03	 10	gen 1000000 ufsldj
+1-04	 11	gen 1000000 ufsdld
+1-05	 12	gen 1000000 uccoxjv
+1-06	 13	gen 1000000 09ufsd
+1-07	 14	gen 1000000 sucvcl
+1-08	 15	gen 1000000 utsgdg
+1-09	 16	gen 1000000 sdjklvcjx
+1-10	 17	gen 1000000 jsfdkljfdkl
+1-11	 18	gen 1000000 efiosjcklfjcx
+1-12	 19	gen 1000000 sdjfklsjdlf
