@@ -1,21 +1,21 @@
 correct.cpp
 solution            compile[OK]
 0-01                sol[OK]    0.011     check[OK]        1  [Correct]               
-0-02                sol[OK]    0.373     check[OK]        1  [Correct]               
-1-01                sol[OK]    0.330     check[OK]        1  [Correct]               
-1-02                sol[OK]    0.398     check[OK]        1  [Correct]               
-1-03                sol[OK]    0.871     check[OK]        1  [Correct]               
-1-04                sol[OK]    0.341     check[OK]        1  [Correct]               
-1-05                sol[OK]    0.988     check[OK]        1  [Correct]               
-1-06                sol[FAIL]  1.286     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-1-07                sol[OK]    0.351     check[OK]        1  [Correct]               
-1-08                sol[OK]    0.451     check[OK]        1  [Correct]               
-1-09                sol[FAIL]  1.023     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-1-10                sol[OK]    0.607     check[OK]        1  [Correct]               
-1-11                sol[FAIL]  1.065     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-1-12                sol[OK]    0.874     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.012     check[OK]        1  [Correct]               
+1-01                sol[FAIL]  1.290     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+1-02                sol[OK]    0.147     check[OK]        1  [Correct]               
+1-03                sol[OK]    0.505     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.293     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.154     check[OK]        1  [Correct]               
+1-06                sol[FAIL]  1.133     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+1-07                sol[OK]    0.262     check[OK]        1  [Correct]               
+1-08                sol[OK]    0.095     check[OK]        1  [Correct]               
+1-09                sol[OK]    0.570     check[OK]        1  [Correct]               
+1-10                sol[FAIL]  1.093     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+1-11                sol[OK]    0.652     check[OK]        1  [Correct]               
+1-12                sol[OK]    0.042     check[OK]        1  [Correct]               
 samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
-full                [12/12 tests]  [Time Limit Exceeded] [0/100 pts]    [expected: model_solution]        1-06
+full                [12/12 tests]  [Time Limit Exceeded] [0/100 pts]    [expected: model_solution]        1-01
 
 Subtask summary
 0/100 pts
