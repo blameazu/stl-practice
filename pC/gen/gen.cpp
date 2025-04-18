@@ -6,6 +6,6 @@ int main(int argc, char* argv[]) {
 	int n = rnd.next(1, atoi(argv[1]));
 	cout << n << '\n';
 	while(n--) {
-		cout << rnd.next(1, 3) << ' ' << rnd.next(1, 1000000000) << '\n';
+		cout << rnd.next(1, 3) << ' ' << rnd.next(0, 1000000000) << '\n';
 	}
 }
