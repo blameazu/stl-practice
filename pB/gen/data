@@ -2,19 +2,19 @@
 # TODO
 @subtask samples
 manual example-1.in
-gen sjkdlf
+gen 20 sjkdlf
 
 @subtask full
-gen	sdkfl
-gen	3wersdkl
-gen ufsldj
-gen ufsdld
-gen uccoxjv
-gen 09ufsd
-gen sucvcl
-gen utsgdg
-gen sdjklvcjx
-gen jsfdkljfdkl
-gen efiosjcklfjcx
-gen sdjfklsjdlf
+gen	1000000 sdkfl
+gen	1000000 3wersdkl
+gen 1000000 ufsldj
+gen 1000000 ufsdld
+gen 1000000 uccoxjv
+gen 1000000 09ufsd
+gen 1000000 sucvcl
+gen 1000000 utsgdg
+gen 1000000 sdjklvcjx
+gen 1000000 jsfdkljfdkl
+gen 1000000 efiosjcklfjcx
+gen 1000000 sdjfklsjdlf
 
