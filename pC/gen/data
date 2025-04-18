@@ -1,8 +1,18 @@
 # see https://github.com/ioi-2017/tps/blob/master/docs/README.md#gendata
-# TODO
 @subtask samples
 manual example-1.in
+gen 15 sdfjkl
 
 @subtask full
-gen	20
-gen	30
+gen	1000000 sdfklj
+gen	1000000 sjdlkfjslkd
+gen	1000000 uroifsj
+gen	1000000 uwerufsdj
+gen	1000000 dsufjds
+gen	1000000 ajdoisfjsi
+gen	1000000 uf0uewd
+gen	1000000 udsf0ud
+gen	1000000 nvncs
+gen	1000000 sudfiuwe
+gen	1000000 us09fusduxf
+gen	1000000 fdsouife
