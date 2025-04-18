@@ -1,4 +1,4 @@
-# 零桐人
+# SAO補習班
 
 \begin{figure}[h]
 \centering
