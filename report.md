@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- |
 | contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) |
 | problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) |
-| name |  [:white_check_mark:](pA/problem.json)<br>25STLP_InAndOut | [:white_check_mark:](pB/problem.json)<br>25STLP_SAOcp | [:white_check_mark:](pC/problem.json)<br>25STLP_Bigger | [:white_check_mark:](pD/problem.json)<br>25STLP_What |
-| title |  [:white_check_mark:](pA/problem.json)<br>一個喜歡拔刀的男人 | [:white_check_mark:](pB/problem.json)<br>SAO補習班 | [:white_check_mark:](pC/problem.json)<br>我很大 | [:white_check_mark:](pD/problem.json)<br>這是什麼? |
+| name |  [:white_check_mark:](pA/problem.json)<br>25STLP_InAndOut | [:white_check_mark:](pB/problem.json)<br>25STLP_SAOcp | [:white_check_mark:](pC/problem.json)<br>25STLP_Grandma | [:white_check_mark:](pD/problem.json)<br>25STLP_What |
+| title |  [:white_check_mark:](pA/problem.json)<br>一個喜歡拔刀的男人 | [:white_check_mark:](pB/problem.json)<br>SAO補習班 | [:white_check_mark:](pC/problem.json)<br>阿嬤特拉斯 | [:white_check_mark:](pD/problem.json)<br>這是什麼? |
 | memory_limit |  512 | 512 | 512 | 512 |
 | time_limit |  1.0 | 1.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False |
