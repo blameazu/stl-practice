@@ -10,7 +10,7 @@ int main() {
 		else if(a == 2) se.erase(b);
 		else {
 			auto ub = se.upper_bound(b);
-			if(ub == se.end()) cout << "Not found!\n";
+			if(ub == se.end()) cout << "Grandma ta las!\n";
 			else cout << *ub << '\n';
 		}
 	}
